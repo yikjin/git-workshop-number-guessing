@@ -2,4 +2,4 @@
 
 Wow I can't wait to learn Git and GitHub!
 
-This line comes from the 'a3-branching-away' branch.
+This line comes from the 'a3-branching-away' and 'a4-parallel-universes' branch.
