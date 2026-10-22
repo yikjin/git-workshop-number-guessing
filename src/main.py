@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 
-lazy from random import randint
+from random import randint
 
 MAX_TRIES = 5
 MIN_NUMBER = 1
-MAX_NUMBER = 60
+MAX_NUMBER = 67
 
 BANNER = "Guessing game"
 
